@@ -38,6 +38,6 @@
      following tag to your config.xml; you will still have the INTERNET
      permission on your app, which PhoneGap requires. -->
     <preference name="permissions" value="none"/>
-    <access origin="http://www.demo.onehippo.com"/>
-    <access origin="http://onehippo.com" subdomains="true"/>
+    <access origin="http://blog.pulipuli.info"/>
+    <access origin="http://pulipuli.info" subdomains="true"/>
 </widget>
